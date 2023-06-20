@@ -9,13 +9,11 @@
 
 int main(void)
 {
-	char lcase;
-
-	for (lcase = 'z'; lcase >= 'a' -26; lcase--);
-	putchar(lcase);
-	{
-		putchar('\n');
-	}
+	char low;
+	
+	for (low = 'z'; low >= 'a'; low--);
+	putchar(low);
+	putchar('\n');
 
 	return (0);
 }
