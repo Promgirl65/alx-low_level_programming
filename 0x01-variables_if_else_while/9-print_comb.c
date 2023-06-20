@@ -13,7 +13,7 @@ int main(void)
 
 	for (j = '0'; j <= '9'; j++)
 	{
-		putchar(d);
+		putchar(j);
 		id (j != '9')
 		{
 			putchar(',');
