@@ -11,7 +11,7 @@ int main(void)
 {
 	char lcase;
 
-	for (lcase = 'z'; lcase >= 'a'; lcase--);
+	for (lcase = 'z'; lcase >= 'a' -26; lcase--);
 	putchar(lcase);
 	{
 		putchar('\n');
