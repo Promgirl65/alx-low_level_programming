@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * print_alphabet - prints the alphabet in lowercase, followed by a new line
+ * print_alphabet - print all alphabet in lowercase
  * Return: 0
  */
 
