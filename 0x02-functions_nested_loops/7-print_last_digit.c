@@ -5,8 +5,7 @@
  * Return: value of the last digit
  */
 
-int print_last_digit(int d);
-
+int print_last_digit(int d)
 {
 	int i;
 
