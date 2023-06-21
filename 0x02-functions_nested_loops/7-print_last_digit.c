@@ -17,7 +17,6 @@ int print_last_digit(int d)
 
 	if (i < 0)
 		i = -i;
-	
 	_putchar(i + '0');
 
 	return (i);
