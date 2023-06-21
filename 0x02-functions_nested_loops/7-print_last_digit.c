@@ -6,6 +6,7 @@
  */
 
 int print_last_digit(int d);
+
 {
 	int i;
 
